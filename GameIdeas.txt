@@ -1,10 +1,10 @@
 	//// Acanthis ////
 
 	Ideas:
-	- A game where you are a bird person who makes drinks
-	- Rhythm section when finishing a drink
-	- The customers get angry based on how long you took to make their drink and whether their drink is correct.
-	- Sometimes a drink "mistake" can lead to a customer being more pleased
+- A game where you are a bird person who makes drinks
+- Rhythm section when finishing a drink
+- The customers get angry based on how long you took to make their drink and whether their drink is correct.
+- Sometimes a drink "mistake" can lead to a customer being more pleased
 
-	Favorite Idea
-	- My favorite idea was the rhythm section to complete drinks
+	Favorite Idea:
+- My favorite idea was the rhythm section to complete drinks
