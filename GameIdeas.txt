@@ -1,4 +1,5 @@
 //// Acanthis ////
 
-Idea:
+Ideas:
 - A game where you are a bird person who makes drinks
+- Rhythm section when finishing a drink
