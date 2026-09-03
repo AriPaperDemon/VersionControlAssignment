@@ -1,7 +1,7 @@
 # VersionControlAssignment
 
 1.	Version Control is a way of saving changes for a project while maintaining 
-	old versions that can be reverted to at any point in timewith a time stamp.
+	old versions that can be reverted to at any point in time with a time stamp.
 	It is used to allow multiple programmers to work on a project at once
 	while not interrupting anyone's workflow as well as allowing you to go back
 	to older version in case of catastrophic failure. It also lets programmers
